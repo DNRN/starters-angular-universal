@@ -12,10 +12,10 @@ Build the universal application:
     npm run build:ssr
 
 # Serve
-Serve without server side rendering [localhost:4200]():
+Serve without server side rendering [http://localhost:4200](http://localhost:4200):
 
     npm start
 
-Serve wil server side rendering [localhost:4000]():
+Serve wil server side rendering [http://localhost:4000](http://localhost:4000):
 
     npm run serve:ssr
